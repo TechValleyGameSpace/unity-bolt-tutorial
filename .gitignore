@@ -99,3 +99,5 @@ obj
 obj.meta
 /Documentation~/api/*
 /Documentation~/manual/changelog.*
+/Assets/Install Bolt
+/Assets/Install Bolt.meta
